@@ -16,7 +16,7 @@ return [
     // 'name' => env('APP_NAME', 'Laravel'),
 
 // <<<<<<< HEAD
-    'name' => 'KRS Online UMM',
+    'name' => 'KRS Online',
 // =======
 //     'name' => 'KRS Online',
 // >>>>>>> a9b5f0fdbed00058e1b77e5a70a1109c03240a4e
